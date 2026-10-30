@@ -1,0 +1,31 @@
+
+.prod-container{
+    width:300px;
+    height:auto;
+    border-radius: 2px;
+    background-color: bisque;
+    box-shadow: 1px 2px 3px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-div{
+    width:100px;
+    height: auto;
+    background-color: beige;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    
+}
+
+.image-div img{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width:80px;
+    height: auto;
+}
